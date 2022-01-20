@@ -1,0 +1,7 @@
+black==21.12b0
+click==8.0.3
+mypy==0.931
+pre-commit==2.17.0
+pur==5.4.3
+pytest==6.2.5
+reorder_python_imports==2.6.0
