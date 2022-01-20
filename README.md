@@ -4,8 +4,8 @@
 
 ## TOC
 
-- [x] Stage 1: Hello, Hangman
-- [ ] Stage 2: Let's play a game
+- [x] [Stage 1: Hello, Hangman](src/stage1/project.py)
+- [x] [Stage 2: Let's play a game](src/stage2/project.py)
 - [ ] Stage 3: Make your choice
 - [ ] Stage 4: Help is on the way
 - [ ] Stage 5: Keep trying
