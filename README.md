@@ -11,6 +11,6 @@
 - [x] [Stage 5: Keep trying](src/stage5/project.py)
 - [x] [Stage 6: The value of life](src/stage6/project.py)
 - [x] [Stage 7: Error!](src/stage7/project.py)
-- [ ] Stage 8: Menu, please
+- [x] [Stage 8: Menu, please](src/stage8/project.py)
 
 [1]: https://hyperskill.org/
