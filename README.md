@@ -1,6 +1,6 @@
 # hyperskill-hangman-python
 
-"Hangman" Python project from [Hyperskill][1
+"Hangman" Python project from [Hyperskill][1]
 
 ## TOC
 
